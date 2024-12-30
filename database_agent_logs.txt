@@ -1,0 +1,56 @@
+2024-11-17 01:31:41,286 - INFO - DatabaseAgent initialized with enhanced features.
+2024-11-17 01:31:41,286 - INFO - DatabaseAgent initialized.
+2024-11-17 01:31:41,287 - INFO - LLM initialized successfully.
+2024-11-17 01:31:41,288 - INFO - Configuration parameters loaded successfully.
+2024-11-17 01:32:01,657 - INFO - DatabaseAgent initialized with enhanced features.
+2024-11-17 01:32:01,657 - INFO - DatabaseAgent initialized.
+2024-11-17 01:32:01,657 - INFO - LLM initialized successfully.
+2024-11-17 01:32:01,658 - INFO - Configuration parameters loaded successfully.
+2024-11-17 01:34:22,123 - INFO - DatabaseAgent initialized with enhanced features.
+2024-11-17 01:34:22,123 - INFO - DatabaseAgent initialized.
+2024-11-17 01:34:22,123 - INFO - LLM initialized successfully.
+2024-11-17 01:34:22,124 - INFO - Configuration parameters loaded successfully.
+2024-11-17 01:36:39,464 - INFO - DatabaseAgent initialized with enhanced features.
+2024-11-17 01:36:39,464 - INFO - DatabaseAgent initialized.
+2024-11-17 01:36:39,464 - INFO - LLM initialized successfully.
+2024-11-17 01:36:39,465 - INFO - Configuration parameters loaded successfully.
+2024-11-17 01:38:27,936 - INFO - DatabaseAgent initialized with enhanced features.
+2024-11-17 01:38:27,936 - INFO - DatabaseAgent initialized.
+2024-11-17 01:38:27,936 - INFO - LLM initialized successfully.
+2024-11-17 01:38:27,937 - INFO - Configuration parameters loaded successfully.
+2024-11-17 01:40:13,965 - INFO - DatabaseAgent initialized with enhanced features.
+2024-11-17 01:40:13,965 - INFO - DatabaseAgent initialized.
+2024-11-17 01:40:13,965 - INFO - LLM initialized successfully.
+2024-11-17 01:40:13,966 - INFO - Configuration parameters loaded successfully.
+2024-12-25 12:14:35,039 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-25 12:14:35,039 - INFO - LLM initialized successfully.
+2024-12-25 12:14:35,048 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-25 12:14:35,048 - INFO - Using default configuration.
+2024-12-25 12:18:54,726 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-25 12:18:54,726 - INFO - LLM initialized successfully.
+2024-12-25 12:18:54,727 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-25 12:18:54,728 - INFO - Using default configuration.
+2024-12-25 12:19:33,570 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-25 12:19:33,570 - INFO - LLM initialized successfully.
+2024-12-25 12:19:33,571 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-25 12:19:33,571 - INFO - Using default configuration.
+2024-12-25 12:19:50,413 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-25 12:19:50,413 - INFO - LLM initialized successfully.
+2024-12-25 12:19:50,414 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-25 12:19:50,414 - INFO - Using default configuration.
+2024-12-25 12:20:16,562 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-25 12:20:16,562 - INFO - LLM initialized successfully.
+2024-12-25 12:20:16,563 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-25 12:20:16,563 - INFO - Using default configuration.
+2024-12-25 12:22:26,033 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-25 12:22:26,033 - INFO - LLM initialized successfully.
+2024-12-25 12:22:26,034 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-25 12:22:26,034 - INFO - Using default configuration.
+2024-12-25 12:24:36,110 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-25 12:24:36,110 - INFO - LLM initialized successfully.
+2024-12-25 12:24:36,111 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-25 12:24:36,111 - INFO - Using default configuration.
+2024-12-28 00:10:19,702 - INFO - DatabaseAgent initialized with enhanced features.
+2024-12-28 00:10:19,702 - INFO - LLM initialized successfully.
+2024-12-28 00:10:19,709 - ERROR - Error loading configuration file C:\Users\desal\PycharmProjects\crypto_agent\config.json: Expecting ',' delimiter: line 14 column 30 (char 619)
+2024-12-28 00:10:19,709 - INFO - Using default configuration.

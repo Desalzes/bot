@@ -1,0 +1,33 @@
+{
+  "agents": {
+    "database": {
+      "class": "agents.database_agent.DatabaseAgent",
+      "config": {
+        "database": "../trading_data.db"
+      }
+    },
+    "parameter": {
+      "class": "agents.parameter_agent.ParameterAgent",
+      "config": {
+        "config_file": "config.json"
+      }
+    },
+    "trading_bot": {
+      "class": "agents.trading_bot_agent.TradingBotAgent",
+      "config": {
+        "initial_balance": 10000,
+        "config_file": "config.json"
+      }
+    },
+    "news": {
+      "class": "agents.news_agent.NewsAgent",
+      "config": {
+        "api_key": "your_news_api_key",
+        "sources": ["Reuters", "Bloomberg"]
+      }
+    }
+  },
+  "agent_execution_order": ["database", "parameter", "news", "trading_bot"],
+  "log_file": "../logs/main_agent.log",
+  "sleep_interval_seconds": 60
+}
